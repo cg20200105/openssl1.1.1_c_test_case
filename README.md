@@ -1,6 +1,6 @@
 OpenSSL 测试项目
 
-这个项目演示了如何编译和运行一个使用 OpenSSL 库的 C 程序。项目包含 OpenSSL 静态库和头文件，以及一个示例 C 程序 (`test.c`)。
+这个项目演示了如何编译和运行一个使用 OpenSSL 库的 C 程序。项目包含 OpenSSL 静态库和头文件，以及一个示例 C 程序 (`test.c`)，具有很好的跨平台性，只需要下载好工程通过Makefile一键运行即可。
 
 目录结构
 openssl_test/
